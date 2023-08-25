@@ -19,4 +19,4 @@ Comandos:
 - Para rodar seus testes - npx codeceptjs run --steps
 - Para rodar seus testes através das tags - npx codeceptjs run --grep 'nome da tag'
 
-Possuindo também um arquivo com o Plano de Teste para auxilio.
+Possuindo também um arquivo com o Plano de Teste para o auxilio dos testes.
