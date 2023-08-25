@@ -1,0 +1,23 @@
+{
+  "name": "projeto2",
+  "version": "1.0.0",
+  "description": "Ferramentas Utilizadas:\r - codeceptjs\r - playwright\r - gherkin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "codeceptjs": "^3.5.3",
+    "playwright": "^1.37.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WagTeixeira/codeceptJS.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WagTeixeira/codeceptJS/issues"
+  },
+  "homepage": "https://github.com/WagTeixeira/codeceptJS#readme"
+}
