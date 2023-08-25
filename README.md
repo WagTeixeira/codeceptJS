@@ -1,8 +1,11 @@
 # codeceptJS
 
-Aqui foi utilizado o codeceptJs para fins de automação de testes
+Ferramentas Utilizadas:
+- codeceptjs
+- playwright
+- gherkin
 
-Instalações:
+Instação:
 
 Pasta:
 - Criação de uma pasta com o nome de sua preferencia para aloca-la no Visual Studio Code
